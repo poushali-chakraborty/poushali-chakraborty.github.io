@@ -253,7 +253,7 @@ width: 40vw;
 }
 @media (max-width: 950px){
 	.btn-group-vertical{
-		width: 80vw;
+		width: 90vw;
 		text-align: center;
 		align-items: center;
 		padding-left: 2%;
